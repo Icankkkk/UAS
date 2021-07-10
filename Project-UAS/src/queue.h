@@ -4,6 +4,10 @@
 	studi kasus:
 	dimana sebuah rumah sakit membutuhkan program untuk mendata antrian
 	pasien nya, maka dibuatlatsebuah program queue dengan konsep FIFO (first in first out).
+
+        Nama : Muhamad Faisal
+        NIM : 191011401460
+        Kelas : 04TPLP014
 */
 
 #include "library.h"
