@@ -1,3 +1,7 @@
+/* Nama : Muhamad Faisal
+   NIM : 191011401460
+   Kelas : 04TPLP014
+*/
 #include "library.h"
 
 #ifndef LINKED_LIST
